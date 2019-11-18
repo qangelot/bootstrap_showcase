@@ -1,0 +1,41 @@
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 20px;
+  border: 1px solid transparent;
+}
+.starter-template{
+  background-image: url(img/baguette.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 45rem;
+  overflow: scroll;
+}
+.starter-template1{
+  background-image: url(img/baguette.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 45rem;
+}
+#team{
+  font-style: italic;
+}
+
+.jumbotron{
+  background-color: rgba(255, 224, 179, 0.7);
+}
+
+.carouselall .carousel-inner{
+  height: 700px;
+}
+.logo{
+  height: 50px;
+  width: 50px;
+  margin: 10px 10px 10px 10px;
+}
